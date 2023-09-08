@@ -4,7 +4,7 @@
 </p>
 
 <h1>Network File Shares and Permissions</h1>
-In this tutorial, going off On-premises Active Directory Deployed in the Cloud (Azure) [https://github.com/Jacobvillagomez1/Configuring-On-premises-Active-Directory-within-Azure-VMs] we will create Network files and share permissions between them. <br />
+In this tutorial, going off On-premises Active Directory Deployed in the Cloud (Azure) [https://github.com/JacobVillagomez2077/Configuring-On-premises-Active-Directory-within-Azure-VMs] we will create Network files and share permissions between them. <br />
 
 
 <h2>Video Demonstration</h2>
